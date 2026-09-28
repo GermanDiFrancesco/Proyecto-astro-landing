@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html { scroll-behavior: smooth; }
+.nav-link { color: rgb(23 33 38 / .65); font-size: .9rem; font-weight: 600; }
+.nav-link:hover { color: #172126; }
+.btn-primary { border-radius: .75rem; background: #172126; color: white; padding: .85rem 1.2rem; font-weight: 700; transition: all .2s; }
+.btn-primary:hover { background: #33434a; transform: translateY(-1px); }
+.btn-secondary { border-radius: .75rem; border: 1px solid rgb(23 33 38 / .2); padding: .85rem 1.2rem; font-weight: 700; }
+.btn-secondary:hover { background: white; }
+.eyebrow { color: #5e8b0c; font-size: .75rem; font-weight: 800; letter-spacing: .2em; text-transform: uppercase; }
+.section-title { margin-top: .5rem; font-size: clamp(2.2rem, 5vw, 4rem); font-weight: 900; letter-spacing: -.05em; line-height: 1; }
+.form-label { display: block; margin-bottom: .5rem; font-size: .875rem; font-weight: 700; }
+.form-input { width: 100%; border-radius: .75rem; border: 1px solid rgb(23 33 38 / .15); background: white; padding: .85rem 1rem; outline: none; }

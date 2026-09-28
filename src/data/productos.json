@@ -1,0 +1,8 @@
+[
+  { "id": 1, "titulo": "Landing pages", "categoria": "Web", "descripcion": "Páginas veloces y orientadas a convertir visitas en consultas y ventas.", "imagen": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=80" },
+  { "id": 2, "titulo": "Sitios institucionales", "categoria": "Web", "descripcion": "La presencia digital profesional que tu empresa necesita para crecer.", "imagen": "https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&w=900&q=80" },
+  { "id": 3, "titulo": "Catálogos digitales", "categoria": "Web", "descripcion": "Mostrá tus productos y servicios con una experiencia clara y moderna.", "imagen": "https://images.unsplash.com/photo-1559028012-481c04fa702d?auto=format&fit=crop&w=900&q=80" },
+  { "id": 4, "titulo": "Identidad visual", "categoria": "Diseño", "descripcion": "Diseño de marca, sistemas visuales y piezas que comunican tu valor.", "imagen": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=900&q=80" },
+  { "id": 5, "titulo": "Mantenimiento web", "categoria": "Soporte", "descripcion": "Actualizaciones, mejoras y soporte continuo para tu sitio.", "imagen": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=900&q=80" },
+  { "id": 6, "titulo": "Optimización SEO", "categoria": "Marketing", "descripcion": "Mejoramos la velocidad y visibilidad para que más personas te encuentren.", "imagen": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?auto=format&fit=crop&w=900&q=80" }
+]
